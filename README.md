@@ -1,1 +1,1 @@
-# interviewSetupJs
+typescript interview
